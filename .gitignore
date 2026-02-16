@@ -40,6 +40,11 @@ wp-config.php
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
 #/wp-content/plugins
+/wp-content/cache
+/wp-content/upgrade-temp-backup
+/wp-content/upgrade
+/wp-content/wflogs
+
 
 # All themes
 #
